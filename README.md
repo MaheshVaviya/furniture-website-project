@@ -1,9 +1,9 @@
 # Wood Art Furniture Website
 
-![Website Preview](img/Screenshot%202025-07-23%20004141.png)
-![Website Preview](img/Screenshot%202025-07-23%20004153.png)
-![Website Preview](img/Screenshot%202025-07-23%20004203.png)
-![Website Preview](img/Screenshot%202025-07-23%20004225.png)
+![Home Page](WPL%20furniture%20website/img/Screenshot%202025-07-23%20004141.png)
+![Catalog Page](WPL%20furniture%20website/img/Screenshot%202025-07-23%20004153.png)
+![Catalog Page](WPL%20furniture%20website/img/Screenshot%202025-07-23%20004203.png)
+![About Page](WPL%20furniture%20website/img/Screenshot%202025-07-23%20004225.png)
 
 ## Table of Contents
 - [Project Description](#project-description)
