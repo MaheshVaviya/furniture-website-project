@@ -1,6 +1,9 @@
 # Wood Art Furniture Website
 
-![Website Preview](img/website-preview.jpg) <!-- Optional: Add screenshot -->
+![Website Preview](img/Screenshot-2025-07-23-004141.png)
+![Website Preview](img/Screenshot-2025-07-23-004153.png)
+![Website Preview](img/Screenshot-2025-07-23-004203.png)
+![Website Preview](img/Screenshot-2025-07-23-004225.png)
 
 ## Table of Contents
 - [Project Description](#project-description)
