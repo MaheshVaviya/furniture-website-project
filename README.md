@@ -72,9 +72,6 @@ Create a new database: woodart_db
 
 Run the following SQL to create required tables:
 
-sql
-Copy
-Edit
 CREATE TABLE contact (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100) NOT NULL,
@@ -98,9 +95,6 @@ Start Apache and MySQL services
 Visit the site: http://localhost/wood-art-website
 
 File Structure
-pgsql
-Copy
-Edit
 wood-art-website/
 ├── admin-view/          # Admin dashboard
 │   └── contact-table.php
@@ -116,12 +110,6 @@ wood-art-website/
 │   └── logout.php
 ├── submit_contact.php   # Contact form handler
 └── README.md            # This file
-Credits
-Developer: [Your Name]
-
-Design Inspiration: Woodworking Magazine
-
-Images: Unsplash Wood Collection
 
 License
-This project is licensed under the MIT License.
+This project is publicly accessible, but the code is not available for reuse or modification.
