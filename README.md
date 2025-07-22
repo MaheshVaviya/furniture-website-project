@@ -65,13 +65,15 @@ cp -r wood-art-website /opt/lampp/htdocs/
 
 # For Windows:
 xcopy wood-art-website C:\xampp\htdocs\ /E /H /C /I
-Database Setup
-Open phpMyAdmin
+```
 
-Create a new database: woodart_db
+### Database Setup
 
-Run the following SQL to create required tables:
+1. Open [phpMyAdmin](http://localhost/phpmyadmin)
+2. Create a new database: `woodart_db`
+3. Run the following SQL to create required tables:
 
+```sql
 CREATE TABLE contact (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100) NOT NULL,
@@ -87,14 +89,17 @@ CREATE TABLE users (
   password VARCHAR(255) NOT NULL,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-Launch Website
-Open XAMPP Control Panel
+```
 
-Start Apache and MySQL services
+### Launch Website
 
-Visit the site: http://localhost/wood-art-website
+1. Open XAMPP Control Panel
+2. Start **Apache** and **MySQL** services
+3. Visit the site: [http://localhost/wood-art-website](http://localhost/wood-art-website)
 
-File Structure
+## File Structure
+
+```
 wood-art-website/
 ├── admin-view/          # Admin dashboard
 │   └── contact-table.php
@@ -110,6 +115,14 @@ wood-art-website/
 │   └── logout.php
 ├── submit_contact.php   # Contact form handler
 └── README.md            # This file
+```
 
-License
-This project is publicly accessible, but the code is not available for reuse or modification.
+## Credits
+
+- **Developer**: [Your Name]
+- **Design Inspiration**: *Woodworking Magazine*
+- **Images**: *Unsplash Wood Collection*
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
