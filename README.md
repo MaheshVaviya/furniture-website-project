@@ -8,7 +8,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [File Structure](#file-structure)
-- [Credits](#credits)
 - [License](#license)
 
 ## Project Description
@@ -117,12 +116,6 @@ wood-art-website/
 └── README.md            # This file
 ```
 
-## Credits
-
-- **Developer**: [Your Name]
-- **Design Inspiration**: *Woodworking Magazine*
-- **Images**: *Unsplash Wood Collection*
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is publicly accessible, but the code is not available for reuse or modification.
